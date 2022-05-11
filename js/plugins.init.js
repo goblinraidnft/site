@@ -349,7 +349,7 @@ try {
 try {
     if(document.getElementById("days")){
         // The data/time we want to countdown to
-        var eventCountDown = new Date("May 7, 2022 18:00:00").getTime();
+        var eventCountDown = new Date("May 11, 2022 16:00:00").getTime();
 
         // Run myfunc every second
         var myfunc = setInterval(function () {
